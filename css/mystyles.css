@@ -1,0 +1,53 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    color: ;
+    background-color: rgb(232, 229, 226);
+}
+.headerstyle{
+    text-align: center;
+}
+h1{
+    font-family: 'Comic Sans' !important;
+    color: rgb(78, 71, 42) !important ;
+}
+.font-weight-bold{
+    color: rgb(197, 197, 197) !important;
+}
+
+/*div styles*/
+.common{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+position: absolute;
+color: rgb(58, 32, 5);
+
+}
+.top{
+top: 0px;
+left: 0px;
+right: 0px;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    font-size: large;
+
+
+}
+.bottom{
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: 3380px;
+position: relative;
+z-index: 1;
+text-align: center;
+background-color: aliceblue;
+font-style: italic;
+font-weight: bold;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid rgb(69, 69, 69);
+}
